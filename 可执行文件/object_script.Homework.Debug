@@ -1,0 +1,15 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\myword.o
+./debug\new123.o
+./debug\success123.o
+./debug\sure.o
+./debug\warning.o
+./debug\moc_mainwindow.o
+./debug\moc_myword.o
+./debug\moc_new123.o
+./debug\moc_success123.o
+./debug\moc_sure.o
+./debug\moc_warning.o
+);
